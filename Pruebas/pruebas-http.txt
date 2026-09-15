@@ -1,0 +1,7 @@
+Login administrador y JSP catálogo: OK
+CRUD libros mediante formularios HTTP: OK
+JSP administración de usuarios: OK
+Permisos de estudiante y rechazo CSRF: OK
+Devolución realizada en navegador persistida: OK
+Ruta privada sin sesión redirige a login: OK
+Tomcat 9.0.121 · http://127.0.0.1:8086/biblioteca/

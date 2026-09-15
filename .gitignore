@@ -1,0 +1,8 @@
+target/
+*.mv.db
+*.trace.db
+.metadata/
+
+.DS_Store
+Thumbs.db
+*.log
